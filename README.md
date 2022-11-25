@@ -1,2 +1,3 @@
 # CodelatoSwift
-Swift Toolkit for speeding up iOS Development
+
+My collection of helpers for speeding up iOS Development process.
