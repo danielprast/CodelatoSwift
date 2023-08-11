@@ -1,3 +1,3 @@
 # CodelatoSwift
 
-My collection of helpers for speeding up iOS Development process.
+Base components for your iOS app development.

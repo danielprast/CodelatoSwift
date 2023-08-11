@@ -4,3 +4,9 @@ public struct CodelatoSwift {
   public init() {
   }
 }
+
+
+public func shout(_ key: String, value: Any) {
+  guard DevelopmentMode.shared.isActive else { return }
+  print("◉ \(key) ⇢ \(value)")
+}
